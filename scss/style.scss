@@ -1,0 +1,9 @@
+@use './custom' as *;
+
+//components
+@use './components/mixins';
+
+// SEctions
+@use './section/nav';
+@use './section/area';
+
